@@ -7,7 +7,7 @@ function getCurrentThreadCount(){
 }
 
 function createThread(data){
-    const worker = new Worker('./thread.mjs')
+    const worker = new Worker('./thread.js')
 
     const p = new Promise((resolve, reject)=>{
 

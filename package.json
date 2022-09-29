@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-single-thread",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Luan121314/theads-nodesjs.git",
+  "author": "luan.correia <luan.correia@intelie.com.br>",
+  "license": "MIT",
+  "scripts": {
+    "start":"node ./index.js"
+  },
+  "type": "module"
+}
